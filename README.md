@@ -1,4 +1,4 @@
-A Lush Theme for Neovim.
+Cyberpunk 2077 Theme based on Lush for Neovim.
 ===
 
 See: http://git.io/lush.nvim for more information on Lush and a helper script
